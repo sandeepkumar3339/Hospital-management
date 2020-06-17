@@ -1,0 +1,3 @@
+1 kalpal 12
+2 paracetamal 9
+3 glucose 50

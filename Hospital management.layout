@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Lab.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1353" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="82" />
+			<Collapse line="108" />
+			<Collapse line="163" />
+		</Folding>
+	</File>
+	<File name="Pharmacy.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4803" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="82" />
+			<Collapse line="122" />
+			<Collapse line="148" />
+			<Collapse line="203" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="246" topLine="2" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="24" />
+			<Collapse line="30" />
+			<Collapse line="68" />
+			<Collapse line="80" />
+		</Folding>
+	</File>
+	<File name="Management.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2970" topLine="29" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="75" />
+			<Collapse line="115" />
+			<Collapse line="161" />
+			<Collapse line="207" />
+			<Collapse line="253" />
+			<Collapse line="302" />
+			<Collapse line="332" />
+			<Collapse line="362" />
+			<Collapse line="392" />
+			<Collapse line="432" />
+			<Collapse line="454" />
+			<Collapse line="476" />
+			<Collapse line="498" />
+			<Collapse line="520" />
+		</Folding>
+	</File>
+	<File name="Reception.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1660" topLine="17" />
+		</Cursor>
+		<Folding>
+			<Collapse line="71" />
+			<Collapse line="100" />
+			<Collapse line="137" />
+		</Folding>
+	</File>
+	<File name="Cashier.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3687" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="96" />
+			<Collapse line="150" />
+		</Folding>
+	</File>
+	<File name="Doctor.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3577" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="46" />
+			<Collapse line="78" />
+			<Collapse line="135" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

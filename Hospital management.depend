@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1591975989 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\cashier.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591972724 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\doctor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591972724 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\lab.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591972724 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591977278 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\management.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591974595 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\reception.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591972724 source:c:\users\sandeepkumar\desktop\codes-'c'\hospital management\pharmacy.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1592405949 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\cashier.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1592413257 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\lab.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1592413927 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1591977414 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\management.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1592413257 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\pharmacy.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1592411269 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\reception.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1592413956 source:c:\users\sandeepkumar\desktop\sem 2\c programming\project\hospital management\hospital management\doctor.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
